@@ -6,7 +6,7 @@ val bootJar: BootJar by tasks
 bootJar.enabled = false
 jar.enabled = true
 
-plugins{
+plugins {
 
 }
 
@@ -22,6 +22,6 @@ noArg {
     annotation("javax.persistence.MappedSuperclass")
 }
 
-dependencies{
+dependencies {
 
 }
