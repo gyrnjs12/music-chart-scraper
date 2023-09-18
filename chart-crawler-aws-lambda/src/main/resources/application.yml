@@ -2,10 +2,3 @@ spring:
   cloud:
     function:
       definition: reverseString
-  main:
-    banner-mode: off
-
-logging:
-  level:
-    root: info
-
